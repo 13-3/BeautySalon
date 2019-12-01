@@ -1,0 +1,15 @@
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\bin\Debug\BeautySalon.exe.config
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\bin\Debug\BeautySalon.exe
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\bin\Debug\BeautySalon.pdb
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon3.csprojAssemblyReference.cache
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.beautySalon.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.LogIn.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.MaisonDeJoelle.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Nails_spa.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Properties.Resources.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Salon.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.Services.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.SignUp.resources
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon3.csproj.GenerateResource.cache
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.exe
+C:\Users\nora mofeed\source\repos\BeautySalon\BeautySalon\BeautySalon\BeautySalon\obj\Debug\BeautySalon.pdb
